@@ -50,10 +50,10 @@ To do this setup we will use the **1049** ASCII code that represents a number "1
 
 #### Step 5
 
-Scan the **Options** barcode
+Scan the **Options** barcode \
 ![Scan Options Barcode](images/options.png "Scan Options Barcode")
 
 #### Step 6
 
 Scan the **\<Prefix\>\<Data\>** barcode
-![\<Prefix\>\<Data\> Barcode](images/format.png "\<Prefix\>\<Data\>")
+![\<Prefix\>\<Data\> Barcode](images/format.png "\<Prefix\>\<Data\> Barcode")
