@@ -26,8 +26,8 @@ Scan the **Restore Defaults** barcode \
 
 #### Step 2
 
-Scan the **Fujitsu RS-232** barcode
-![Fujitsy RS-232 Barcode](images/fujitsu.png "Fujitsu RS-232 Barcode")
+Scan the **Fujitsu RS-232** barcode \
+![Fujitsu RS-232 Barcode](images/fujitsu.png "Fujitsu RS-232 Barcode")
 
 #### Step 3
 
@@ -36,7 +36,7 @@ Scan the **Prefix Data Transmission Format** barcode
 
 #### Step 4
 
-Setup the letter/number to use as prefix
+Setup the letter/number to use as prefix \
 
 To do this setup we will use the **1049** ASCII code that represents a number "1" keystroke.
 
@@ -55,5 +55,5 @@ Scan the **Options** barcode \
 
 #### Step 6
 
-Scan the **\<Prefix\>\<Data\>** barcode
+Scan the **\<Prefix\>\<Data\>** barcode \
 ![\<Prefix\>\<Data\> Barcode](images/format.png "\<Prefix\>\<Data\> Barcode")
