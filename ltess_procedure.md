@@ -21,7 +21,7 @@ This will utilize the Fujitsu RS232 protocol, as well as a prefix letter/number,
 
 #### Step 1
 
-Scan the **Restore Defaults** barcode
+Scan the **Restore Defaults** barcode \
 ![Restore Defaults Barcode](images/defaults.png "Restore Defaults Barcode")
 
 #### Step 2
