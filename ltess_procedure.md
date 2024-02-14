@@ -38,7 +38,7 @@ Scan the **Prefix Data Transmission Format** barcode \
 
 Setup the letter/number to use as prefix
 
-To do this setup we will use the **1049** ASCII code that represents a number "1" keystroke.
+To do this setup we will use the **1049** ASCII code that represents a number "1" keystroke. To do that scann the following series of barcodes in the order they appear.
 
 ![1 Barcode](images/1.png "1 Barcode")
 
