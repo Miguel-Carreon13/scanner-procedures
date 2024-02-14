@@ -31,12 +31,12 @@ Scan the **Fujitsu RS-232** barcode \
 
 #### Step 3
 
-Scan the **Prefix Data Transmission Format** barcode
+Scan the **Prefix Data Transmission Format** barcode \
 ![Prefix Data Transmission Format Barcode](images/prefix.png "Prefix Data Transmission Format Barcode")
 
 #### Step 4
 
-Setup the letter/number to use as prefix \
+Setup the letter/number to use as prefix
 
 To do this setup we will use the **1049** ASCII code that represents a number "1" keystroke.
 
