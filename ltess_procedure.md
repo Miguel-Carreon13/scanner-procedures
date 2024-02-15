@@ -29,6 +29,8 @@ Scan the **Restore Defaults** barcode \
 Scan the **Fujitsu RS-232** barcode \
 ![Fujitsu RS-232 Barcode](images/fujitsu.png "Fujitsu RS-232 Barcode")
 
+<br>
+
 #### Step 3
 
 Scan the **Prefix Data Transmission Format** barcode \
